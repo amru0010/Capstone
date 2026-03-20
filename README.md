@@ -54,7 +54,7 @@
 
 ## 👤 Author
 **Amrutha**  
-Data Scientist | AI/ML Enthusiast  
+AI/ML Enthusiast  
 
 ---
 
